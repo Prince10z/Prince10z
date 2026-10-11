@@ -47,7 +47,7 @@ I'm a full stack software engineer with about 3 years of experience shipping web
 </tr>
 <tr>
 <td align="center" width="140"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark&perline=8" alt="Tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,androidstudio,xcode&theme=dark&perline=8" alt="Tools" /></td>
 </tr>
 </table>
 </div>
