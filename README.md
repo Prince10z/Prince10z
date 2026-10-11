@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:24283b,100:7aa2f7&height=240§ion=header&text=Piyush%20Thakur&fontSize=58&fontColor=c0caf5&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" alt="Piyush Thakur" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,55:24283b,100:7aa2f7&height=220&section=header&text=Piyush%20Thakur&fontSize=60&fontColor=c0caf5&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="Piyush Thakur" width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7¢er=true&vCenter=true&width=720&lines=Full+Stack+Software+Engineer+%7C+~3+years;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+REST+APIs;Flutter+%E2%80%A2+GetX+%E2%80%A2+Bloc;Building+web+and+mobile+products+end+to+end" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;React,+Next.js,+Node.js,+TypeScript;Java,+Spring+Boot,+REST+APIs;Flutter,+GetX,+Bloc" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://piyushportfolio.fastdeploy.in"><img src="https://img.shields.io/badge/Portfolio-24283b?style=for-the-badge&logo=googlechrome&logoColor=7aa2f7" alt="Portfolio" /></a>
@@ -77,7 +77,7 @@ I'm a full stack software engineer with about 3 years of experience shipping web
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Prince10z/cashGuardBackend">cashGuardBackend</a></h3>
+<h3><a href="https://github.com/Prince10z/cashguardBackend">cashguardBackend</a></h3>
 <p>Budget tracking API with email OTP, JWT auth and QR code generation</p>
 <p><img src="https://img.shields.io/badge/Node.js-24283b?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-24283b?style=flat-square&logo=express&logoColor=ffffff" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-24283b?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" /> <img src="https://img.shields.io/badge/JWT-24283b?style=flat-square&logo=jsonwebtokens&logoColor=ffffff" alt="JWT" /></p>
 </td>
@@ -96,4 +96,4 @@ I'm a full stack software engineer with about 3 years of experience shipping web
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince10z&layout=compact&langs_count=6&hide=c%2B%2B,c,cmake,swift,kotlin,objective-c,html,css,ejs&card_width=400&disable_animations=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Top languages" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,45:24283b,100:1a1b27&height=120§ion=footer" alt="footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,45:24283b,100:1a1b27&height=120&section=footer" alt="footer" width="100%" />
