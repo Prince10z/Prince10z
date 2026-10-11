@@ -35,15 +35,19 @@ I'm a full stack software engineer with about 3 years of experience shipping web
 </tr>
 <tr>
 <td align="center" width="140"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,mongodb&theme=dark&perline=8" alt="Backend" /></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python&theme=dark&perline=8" alt="Backend" /></td>
 </tr>
 <tr>
 <td align="center" width="140"><b>Mobile</b></td>
 <td><img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark&perline=8" alt="Mobile" /></td>
 </tr>
 <tr>
+<td align="center" width="140"><b>Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=8" alt="Databases" /></td>
+</tr>
+<tr>
 <td align="center" width="140"><b>Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=8" alt="Tools" /></td>
+<td><img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode&theme=dark&perline=8" alt="Tools" /></td>
 </tr>
 </table>
 </div>
