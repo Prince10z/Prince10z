@@ -35,8 +35,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prince10z&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars,prs,issues&card_width=400&disable_animations=true&title_color=00ff9c&icon_color=00ff9c&text_color=7dffb8&hide_border=true&bg_color=020805" alt="GitHub stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince10z&layout=compact&langs_count=6&hide=c%2B%2B,c,cmake,swift,kotlin,objective-c,html,css,ejs&card_width=400&disable_animations=true&title_color=00ff9c&text_color=7dffb8&hide_border=true&bg_color=020805" alt="Top languages" />
+<img src="https://raw.githubusercontent.com/Prince10z/Prince10z/main/assets/activity.svg" alt="GitHub stats and top languages" width="100%" />
 
 <img src="https://streak-stats.demolab.com?user=Prince10z&hide_border=true&background=020805&ring=00ff9c&fire=ffb000&currStreakLabel=00ff9c&sideLabels=7dffb8&currStreakNum=ffffff&sideNums=ffffff&dates=0f9d58&stroke=0f5132" alt="Streak" />
 
